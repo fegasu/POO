@@ -14,7 +14,7 @@
 <hr><b>RECOMENDADOS</B><hr>
 <li><a href="https://ellibrodepython.com/programacion-orientada-a-objetos" targe="xxx">Libro POO (Python)</a></li>
 <li><a href="https://docs.google.com/presentation/d/e/2PACX-1vRInUm61FUxu8b_2xYI749X2FKhCdUDNGihDcQR123idAdo878SJsoFUKRKz_qU0w/pub?start=false&loop=false&delayms=3000" targe="xxx">Taller POO (C#)</a></li>
-<li><a href="https://drive.google.com/file/d/1E3wlfJlcojBh2JCDdMPmk6RSIuCvR80F/view?usp=sharing" targe="xxx">INTRODUCCION A LA POO (C#)</a></li>
+<li><a href="https://drive.google.com/file/d/1E3wlfJlcojBh2JCDdMPmk6RSIuCvR80F/view?usp=sharing" targe="xxx">INTRODUCCION A LA POO</a></li>
 <li><a href="https://drive.google.com/file/d/1FxtrfRUb1s8Cfgz6rcnku_Tmgd34oPsq/view?usp=sharing" targe="xxx">INTRODUCCION A LA POO (java)</a></li>
 
 </ul>
