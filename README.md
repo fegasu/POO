@@ -13,6 +13,5 @@
 <li><a href="https://drive.google.com/file/d/1uFOzXJdgSIDSolWJanoMGMKU-D4m-Ko4/view?usp=sharing" targe="xxx">FUNDAMENTOS PROGRAMACION ORIENTADA A OBJETOS (PYTHON)</a></li>
 <hr><b>RECOMENDADOS</B><hr>
 <li><a href="https://ellibrodepython.com/programacion-orientada-a-objetos" targe="xxx">Libro POO (Python)</a></li>
-<li><a href="https://www.youtube.com/embed/m-GvcEHn4R4" targe="xxx">¿Cómo nace el modelo relacional?
-</a></li>
+
 </ul>
