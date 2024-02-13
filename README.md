@@ -10,9 +10,9 @@
 <li><a href="https://docs.google.com/spreadsheets/d/1q-q40nEnY7XiUKf7lzkKv7vpxGOdKvX5/edit?usp=sharing&ouid=104204113553695993324&rtpof=true&sd=true" targe="xxx">PLANEACION PEDAGOGICA</a></li>
 <li><a href="https://drive.google.com/file/d/104Cx9a5bTd2BM-wTEaIzmGz7GK-W27x6/view?usp=sharing">PROYECTO DE FORMACION</a></li>
 <hr><b>GUIAS DE APRENDIZAJE</B><hr>
-<li><a href="https://drive.google.com/file/d/1jUC4b6OwVfrw1NvpUSZWxoWEcsQK7Cff/view?usp=sharing" targe="xxx">FUNDAMENTOS PROGRAMACION ORIENTADA A OBJETOS (PYTHON)</a></li>
-<hr><b>VIDEOS RECOMENDADOS</B><hr>
-<li><a href="https://www.youtube.com/embed/Ih7CYH73mrM" targe="xxx">Caso de estudio: Import Tech</a></li>
+<li><a href="https://drive.google.com/file/d/1uFOzXJdgSIDSolWJanoMGMKU-D4m-Ko4/view?usp=sharing" targe="xxx">FUNDAMENTOS PROGRAMACION ORIENTADA A OBJETOS (PYTHON)</a></li>
+<hr><b>RECOMENDADOS</B><hr>
+<li><a href="https://ellibrodepython.com/programacion-orientada-a-objetos" targe="xxx">Libro POO (Python)</a></li>
 <li><a href="https://www.youtube.com/embed/m-GvcEHn4R4" targe="xxx">¿Cómo nace el modelo relacional?
 </a></li>
 </ul>
