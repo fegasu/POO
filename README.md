@@ -13,5 +13,6 @@
 <li><a href="https://drive.google.com/file/d/1uFOzXJdgSIDSolWJanoMGMKU-D4m-Ko4/view?usp=sharing" targe="xxx">FUNDAMENTOS PROGRAMACION ORIENTADA A OBJETOS (PYTHON)</a></li>
 <hr><b>RECOMENDADOS</B><hr>
 <li><a href="https://ellibrodepython.com/programacion-orientada-a-objetos" targe="xxx">Libro POO (Python)</a></li>
+<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vRInUm61FUxu8b_2xYI749X2FKhCdUDNGihDcQR123idAdo878SJsoFUKRKz_qU0w/pub?start=false&loop=false&delayms=3000" targe="xxx">Taller POO (Python)</a></li>
 
 </ul>
