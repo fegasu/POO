@@ -16,5 +16,8 @@
 <li><a href="https://docs.google.com/presentation/d/e/2PACX-1vRInUm61FUxu8b_2xYI749X2FKhCdUDNGihDcQR123idAdo878SJsoFUKRKz_qU0w/pub?start=false&loop=false&delayms=3000" targe="xxx">Taller POO (C#)</a></li>
 <li><a href="https://drive.google.com/file/d/1E3wlfJlcojBh2JCDdMPmk6RSIuCvR80F/view?usp=sharing" targe="xxx">INTRODUCCION A LA POO</a></li>
 <li><a href="https://drive.google.com/file/d/1FxtrfRUb1s8Cfgz6rcnku_Tmgd34oPsq/view?usp=sharing" targe="xxx">INTRODUCCION A LA POO (java)</a></li>
+<li><a href="https://drive.google.com/file/d/1_BQT2XLveK2kiVxb39f4NIFC3popxtr0/view?usp=sharing" targe="xxx">ESTRUCTURAS EN C#</a></li>
+<li><a href="https://drive.google.com/file/d/1j1xYQupdwkmReEE-CuLL4ysdXFjUiCkp/view?usp=sharing" targe="xxx">CLASES ABSTRACTAS EN C#</a></li>
+<li><a href="https://drive.google.com/file/d/1qgPZtRcAjg3p9nUbRNUDfZ_TYXqjNBHi/view?usp=sharing" targe="xxx">INTERFACES EN C#</a></li>
 
 </ul>
